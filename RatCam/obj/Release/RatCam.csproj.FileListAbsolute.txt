@@ -1,0 +1,61 @@
+C:\Users\dtp110020\Documents\Visual Studio 2015\Projects\RatCam\RatCam\bin\Release\RatCam.exe.config
+C:\Users\dtp110020\Documents\Visual Studio 2015\Projects\RatCam\RatCam\bin\Release\RatCam.exe
+C:\Users\dtp110020\Documents\Visual Studio 2015\Projects\RatCam\RatCam\bin\Release\RatCam.pdb
+C:\Users\dtp110020\Documents\Visual Studio 2015\Projects\RatCam\RatCam\bin\Release\AForge.Controls.dll
+C:\Users\dtp110020\Documents\Visual Studio 2015\Projects\RatCam\RatCam\bin\Release\AForge.dll
+C:\Users\dtp110020\Documents\Visual Studio 2015\Projects\RatCam\RatCam\bin\Release\AForge.Imaging.dll
+C:\Users\dtp110020\Documents\Visual Studio 2015\Projects\RatCam\RatCam\bin\Release\AForge.Math.dll
+C:\Users\dtp110020\Documents\Visual Studio 2015\Projects\RatCam\RatCam\bin\Release\AForge.Video.DirectShow.dll
+C:\Users\dtp110020\Documents\Visual Studio 2015\Projects\RatCam\RatCam\bin\Release\AForge.Video.dll
+C:\Users\dtp110020\Documents\Visual Studio 2015\Projects\RatCam\RatCam\bin\Release\AForge.Video.FFMPEG.dll
+C:\Users\dtp110020\Documents\Visual Studio 2015\Projects\RatCam\RatCam\bin\Release\AForge.xml
+C:\Users\dtp110020\Documents\Visual Studio 2015\Projects\RatCam\RatCam\bin\Release\AForge.Controls.xml
+C:\Users\dtp110020\Documents\Visual Studio 2015\Projects\RatCam\RatCam\bin\Release\AForge.Imaging.xml
+C:\Users\dtp110020\Documents\Visual Studio 2015\Projects\RatCam\RatCam\bin\Release\AForge.Math.xml
+C:\Users\dtp110020\Documents\Visual Studio 2015\Projects\RatCam\RatCam\bin\Release\AForge.Video.xml
+C:\Users\dtp110020\Documents\Visual Studio 2015\Projects\RatCam\RatCam\bin\Release\AForge.Video.DirectShow.xml
+C:\Users\dtp110020\Documents\Visual Studio 2015\Projects\RatCam\RatCam\bin\Release\AForge.Video.FFMPEG.pdb
+C:\Users\dtp110020\Documents\Visual Studio 2015\Projects\RatCam\RatCam\bin\Release\AForge.Video.FFMPEG.xml
+C:\Users\dtp110020\Documents\Visual Studio 2015\Projects\RatCam\RatCam\obj\Release\RatCam.csprojResolveAssemblyReference.cache
+C:\Users\dtp110020\Documents\Visual Studio 2015\Projects\RatCam\RatCam\obj\Release\CameraSelector.g.cs
+C:\Users\dtp110020\Documents\Visual Studio 2015\Projects\RatCam\RatCam\obj\Release\MainWindow.g.cs
+C:\Users\dtp110020\Documents\Visual Studio 2015\Projects\RatCam\RatCam\obj\Release\App.g.cs
+C:\Users\dtp110020\Documents\Visual Studio 2015\Projects\RatCam\RatCam\obj\Release\RatCam_MarkupCompile.cache
+C:\Users\dtp110020\Documents\Visual Studio 2015\Projects\RatCam\RatCam\obj\Release\RatCam_MarkupCompile.lref
+C:\Users\dtp110020\Documents\Visual Studio 2015\Projects\RatCam\RatCam\obj\Release\CameraSelector.baml
+C:\Users\dtp110020\Documents\Visual Studio 2015\Projects\RatCam\RatCam\obj\Release\MainWindow.baml
+C:\Users\dtp110020\Documents\Visual Studio 2015\Projects\RatCam\RatCam\obj\Release\RatCam.g.resources
+C:\Users\dtp110020\Documents\Visual Studio 2015\Projects\RatCam\RatCam\obj\Release\RatCam.Properties.Resources.resources
+C:\Users\dtp110020\Documents\Visual Studio 2015\Projects\RatCam\RatCam\obj\Release\RatCam.csproj.GenerateResource.Cache
+C:\Users\dtp110020\Documents\Visual Studio 2015\Projects\RatCam\RatCam\obj\Release\RatCam.exe
+C:\Users\dtp110020\Documents\Visual Studio 2015\Projects\RatCam\RatCam\obj\Release\RatCam.pdb
+Z:\TBI\Behavior Code\RatCam\Rat Cam 2\Code\RatCam\bin\Release\RatCam.exe.config
+Z:\TBI\Behavior Code\RatCam\Rat Cam 2\Code\RatCam\obj\Release\RatCam.exe
+Z:\TBI\Behavior Code\RatCam\Rat Cam 2\Code\RatCam\obj\Release\RatCam.pdb
+Z:\TBI\Behavior Code\RatCam\Rat Cam 2\Code\RatCam\bin\Release\RatCam.exe
+Z:\TBI\Behavior Code\RatCam\Rat Cam 2\Code\RatCam\bin\Release\RatCam.pdb
+Z:\TBI\Behavior Code\RatCam\Rat Cam 2\Code\RatCam\bin\Release\AForge.Controls.dll
+Z:\TBI\Behavior Code\RatCam\Rat Cam 2\Code\RatCam\bin\Release\AForge.dll
+Z:\TBI\Behavior Code\RatCam\Rat Cam 2\Code\RatCam\bin\Release\AForge.Imaging.dll
+Z:\TBI\Behavior Code\RatCam\Rat Cam 2\Code\RatCam\bin\Release\AForge.Math.dll
+Z:\TBI\Behavior Code\RatCam\Rat Cam 2\Code\RatCam\bin\Release\AForge.Video.DirectShow.dll
+Z:\TBI\Behavior Code\RatCam\Rat Cam 2\Code\RatCam\bin\Release\AForge.Video.dll
+Z:\TBI\Behavior Code\RatCam\Rat Cam 2\Code\RatCam\bin\Release\AForge.xml
+Z:\TBI\Behavior Code\RatCam\Rat Cam 2\Code\RatCam\bin\Release\AForge.Controls.xml
+Z:\TBI\Behavior Code\RatCam\Rat Cam 2\Code\RatCam\bin\Release\AForge.Imaging.xml
+Z:\TBI\Behavior Code\RatCam\Rat Cam 2\Code\RatCam\bin\Release\AForge.Math.xml
+Z:\TBI\Behavior Code\RatCam\Rat Cam 2\Code\RatCam\bin\Release\AForge.Video.xml
+Z:\TBI\Behavior Code\RatCam\Rat Cam 2\Code\RatCam\bin\Release\AForge.Video.DirectShow.xml
+Z:\TBI\Behavior Code\RatCam\Rat Cam 2\Code\RatCam\bin\Release\AForge.Video.FFMPEG.pdb
+Z:\TBI\Behavior Code\RatCam\Rat Cam 2\Code\RatCam\bin\Release\AForge.Video.FFMPEG.xml
+Z:\TBI\Behavior Code\RatCam\Rat Cam 2\Code\RatCam\obj\Release\RatCam.csprojResolveAssemblyReference.cache
+Z:\TBI\Behavior Code\RatCam\Rat Cam 2\Code\RatCam\obj\Release\CameraSelector.g.cs
+Z:\TBI\Behavior Code\RatCam\Rat Cam 2\Code\RatCam\obj\Release\MainWindow.g.cs
+Z:\TBI\Behavior Code\RatCam\Rat Cam 2\Code\RatCam\obj\Release\App.g.cs
+Z:\TBI\Behavior Code\RatCam\Rat Cam 2\Code\RatCam\obj\Release\RatCam_MarkupCompile.cache
+Z:\TBI\Behavior Code\RatCam\Rat Cam 2\Code\RatCam\obj\Release\RatCam_MarkupCompile.lref
+Z:\TBI\Behavior Code\RatCam\Rat Cam 2\Code\RatCam\obj\Release\CameraSelector.baml
+Z:\TBI\Behavior Code\RatCam\Rat Cam 2\Code\RatCam\obj\Release\MainWindow.baml
+Z:\TBI\Behavior Code\RatCam\Rat Cam 2\Code\RatCam\obj\Release\RatCam.g.resources
+Z:\TBI\Behavior Code\RatCam\Rat Cam 2\Code\RatCam\obj\Release\RatCam.Properties.Resources.resources
+Z:\TBI\Behavior Code\RatCam\Rat Cam 2\Code\RatCam\obj\Release\RatCam.csproj.GenerateResource.Cache
